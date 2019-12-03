@@ -1,0 +1,1 @@
+getJS.style.backgroundColor = 'blue'
